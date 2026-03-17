@@ -30,7 +30,7 @@ TensorFlow, PyTorch
 The system detects the **semantic relationship** between them and produces a meaningful similarity score.
 
 ---
-### 🚀 Key Features
+#  Key Features
 
 * **Resume Parsing:** Supports both PDF and DOCX files.
 * **Job Description Parsing:** Extracts requirements from PDF or TXT formats.
@@ -201,3 +201,34 @@ This helps recruiters quickly identify the strongest candidates.
 ---
 
 
+
+
+
+
+
+---
+
+# 📸 Project Gallery
+
+### 🎥 Live Demo
+<p align="center">
+  <video src="assets/Live Demo.mp4" width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <em>A short walkthrough of the CV Ranker system in action.</em>
+</p>
+
+---
+
+### 🖼️ Feature Screenshots
+
+| **UI** | **Resume Upload** |
+|:---:|:---:|
+| <img src="assets/Interface.png" width="400"> | <img src="assets/Uploaded Interface.png" width="400"> |
+| *Main analytics dashboard* | *Support for PDF/DOCX files* |
+
+| **Ranking With Graph** | **RAnking with Downloadable CSV** |
+|:---:|:---:|
+| <img src="assets/Graph.png" width="400"> | <img src="assets/CSV.png" width="400"> |
+| *Ranked results with scores* | *Ranked results with scores* |
