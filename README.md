@@ -33,14 +33,21 @@ The system detects the **semantic relationship** between them and produces a mea
 
 # Features
 
-• Resume parsing from **PDF and DOCX files**
-• Job Description parsing from **PDF or TXT**
-• Automatic **skill extraction**
-• **Experience extraction and duration estimation**
-• Semantic similarity matching using transformer embeddings
-• Weighted scoring based on multiple candidate attributes
-• Automatic **candidate ranking system**
-• Interactive **visualization dashboard**
+Resume Parsing: Supports both PDF and DOCX files.
+
+Job Description Parsing: Extracts requirements from PDF or TXT formats.
+
+Automatic Skill Extraction: Identifies key technical and soft skills instantly.
+
+Experience Estimation: Performs experience extraction and calculates total duration.
+
+Semantic Matching: Uses transformer embeddings for deep similarity matching.
+
+Weighted Scoring: Calculates relevance based on multiple candidate attributes.
+
+Candidate Ranking: An automatic system that prioritizes the best fits.
+
+Interactive Dashboard: Features a visualization dashboard for data-driven hiring.
 
 ---
 
