@@ -30,36 +30,27 @@ TensorFlow, PyTorch
 The system detects the **semantic relationship** between them and produces a meaningful similarity score.
 
 ---
+### 🚀 Key Features
 
-# Features
-
-Resume Parsing: Supports both PDF and DOCX files.
-
-Job Description Parsing: Extracts requirements from PDF or TXT formats.
-
-Automatic Skill Extraction: Identifies key technical and soft skills instantly.
-
-Experience Estimation: Performs experience extraction and calculates total duration.
-
-Semantic Matching: Uses transformer embeddings for deep similarity matching.
-
-Weighted Scoring: Calculates relevance based on multiple candidate attributes.
-
-Candidate Ranking: An automatic system that prioritizes the best fits.
-
-Interactive Dashboard: Features a visualization dashboard for data-driven hiring.
-
+* **Resume Parsing:** Supports both PDF and DOCX files.
+* **Job Description Parsing:** Extracts requirements from PDF or TXT formats.
+* **Automatic Skill Extraction:** Identifies key technical and soft skills instantly.
+* **Experience Estimation:** Performs experience extraction and calculates total duration.
+* **Semantic Matching:** Uses transformer embeddings for deep similarity matching.
+* **Weighted Scoring:** Calculates relevance based on multiple candidate attributes.
+* **Candidate Ranking:** An automatic system that prioritizes the best fits.
+* **Interactive Dashboard:** Features a visualization dashboard for data-driven hiring.
 ---
 
 # Tech Stack
 
 This project is built using:
 
-• Python
-• Streamlit – Web interface
-• SentenceTransformers – Semantic embeddings
-• scikit-learn – Cosine similarity computation
-• PDF/DOCX parsing libraries for document processing
+* Python
+* Streamlit – Web interface
+* SentenceTransformers – Semantic embeddings
+* scikit-learn – Cosine similarity computation
+* PDF/DOCX parsing libraries for document processing
 
 ---
 
@@ -128,9 +119,9 @@ The application will open in your browser.
 
 Output includes:
 
-• Match percentage for each resume
-• Ranked candidate list
-• Visualization dashboard
+* Match percentage for each resume
+* Ranked candidate list
+* Visualization dashboard
 
 ---
 
@@ -201,11 +192,11 @@ This helps recruiters quickly identify the strongest candidates.
 
 # Future Improvements
 
-• Skill gap analysis between candidate and job description
-• Resume clustering based on job domains
-• Integration with Applicant Tracking Systems (ATS)
-• Advanced NLP-based information extraction
-• Multi-job ranking support
+* Skill gap analysis between candidate and job description
+* Resume clustering based on job domains
+* Integration with Applicant Tracking Systems (ATS)
+* Advanced NLP-based information extraction
+* Multi-job ranking support
 
 ---
 
