@@ -88,8 +88,8 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ai-resume-ranker.git
-cd ai-resume-ranker
+git clone https://github.com/Vishalgeeks/CV_Ranker_Based_On_Job_Description.git
+cd CV_Ranker_Based_On_Job_Description
 ```
 
 Install dependencies:
