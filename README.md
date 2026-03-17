@@ -110,6 +110,32 @@ The application will open in your browser.
 
 ---
 
+# 📸 Project Gallery
+
+### 🎥 Live Demo
+<p align="center">
+  <video src="assets/Live Demo.mp4" width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <em>A short walkthrough of the CV Ranker system in action.</em>
+</p>
+
+---
+
+# 🖼️ Feature Screenshots
+
+| **UI** | **Resume Upload** |
+|:---:|:---:|
+| <img src="assets/Interface.png" width="400"> | <img src="assets/Uploaded Interface.png" width="400"> |
+| *Main analytics dashboard* | *Support for PDF/DOCX files* |
+
+| **Ranking With Graph** | **RAnking with Downloadable CSV** |
+|:---:|:---:|
+| <img src="assets/Graph.png" width="400"> | <img src="assets/CSV.png" width="400"> |
+| *Ranked results with scores* | *Ranked results with scores* |
+
+
 # Usage
 
 1. Upload a **Job Description (PDF or TXT)**
