@@ -79,8 +79,6 @@ project/
     Project documentation
 ```
 
----
-
 # Installation
 
 Clone the repository:
